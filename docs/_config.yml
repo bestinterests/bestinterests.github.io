@@ -31,7 +31,8 @@ github_username: bestinterests
 
 # Build settings
 # theme: just-the-docs
-  remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
+#list of plugins installed
 plugins:
   - jekyll-feed
 
