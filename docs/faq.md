@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Frequently Asked Questions
+permalink: /faq/
 nav_order: 99
 ---
 
-# Navigation Structure
+# Frequently Asked Questions
 {: .no_toc }
 
 <details open markdown="block">
@@ -18,7 +19,7 @@ nav_order: 99
 
 ---
 
-## Frequently Asked Questions
+## Fixed Deposits
 ### What is a Fixed Deposit (FD)?
 
 {: .text-gamma }
