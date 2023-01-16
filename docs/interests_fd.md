@@ -3,7 +3,7 @@ layout: default
 title: Fixed Deposit Interest Rates
 nav_order: 50
 ---
-# (#header-1) Fixed Deposit Interest Rates
+# [](#header-1) Fixed Deposit Interest Rates
 
 Below is a comparison of FD (fixed deposit) interest rates for amounts below Rs 2 crore at different banks in India, and our recomendation on which bank to select for your deposits..
 
