@@ -8,7 +8,6 @@ nav_order: 50
 Below is a comparison of FD (fixed deposit) interest rates for amounts below Rs 2 crore at different banks in India, and our recomendation on which bank to select for your deposits..
 
 ## Best Interest Rates for the period <30days
-### There's a horizontal rule below this.
 
 * * *
 
@@ -25,7 +24,6 @@ Below is a comparison of FD (fixed deposit) interest rates for amounts below Rs 
 | Axis Bank    | 3 	  |       |                |
 | Yes Bank     | 3 	  |       |                |
 
-### There's a horizontal rule below this.
 
 * * *
 
